@@ -1,4 +1,4 @@
-Creates a playlist that alternates between songs from a specific artist or album and songs from a specifc playlist. Written as javascript practice using MacOS's Script Editor.
+Creates a playlist that alternates between songs from a specific artist or album and songs from a specifc playlist. Written as javascript practice using MacOS's Script Editor. Also available as an [Alfred](https://www.alfredapp.com/) workflow.
 
 Change the sourcePlaylistName, searchText, and searchSpot strings to customize.
 
