@@ -1,11 +1,7 @@
 var iTunes = Application("iTunes");
 var library = iTunes.playlists["Library"];
 var sourcePlaylistName = "random helper";
-
-//TODO: get this from user
 var searchText = "Hayley";
-
-//TODO: get this from user
 var searchSpot = "artists";
 
 var songs = iTunes.search(library, {
